@@ -1,9 +1,6 @@
 # challenge-alura-store
 
 📊Challenge AluraStore Latam 
-Este challenge consiste ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store.
-
-📊 Alura Store Analysis
 
 Este proyecto analiza el desempeño de las cuatro tiendas que componen la cadena Alura Store con el objetivo de identificar cuál presenta el menor rendimiento operativo y comercial. El análisis permite al Sr. Juan tomar una decisión informada sobre qué tienda vender/cerrar para financiar un nuevo emprendimiento.
 
